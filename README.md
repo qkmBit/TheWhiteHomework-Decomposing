@@ -1,1 +1,2 @@
-# TheWhiteHomework-Decomposing
+На рисунке ниже представлен результат декомпозиции процесса создания компьютерной игры.
+![Снимок](https://user-images.githubusercontent.com/83538106/117571442-4363c000-b0d7-11eb-88d6-97d72add1ed6.PNG)
